@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cesium": "^1.119.0",
+    "express": "^4.19.2"
+  }
+}
